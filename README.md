@@ -1,4 +1,4 @@
-(about.png)
+hello(about.png)
 DEVELOPER - https://yusufprompt.github.io/chirpy - TURKEY
 I make sources and publish it.
 ----------------------------------------------------------------
