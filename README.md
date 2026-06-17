@@ -10,7 +10,7 @@ Hello. I am yusuf, i making projects or smth and publish it to github. I love co
 **A console that makes you blazing fast in the terminal.** (AUR, deb, rpm)
 
 [CofeuOS](https://github.com/yusufprompt/cofeuos)
-**A basic OS and have font!** (needs qemu, base-devel, make)
+**A basic OS and have font!** (needs qemu, base-devel, make, nasm)
 
 [Procomp](https://github.com/yusufprompt/procomp) 
 **A minimal compiler c to x86_64 assembly!** (AUR)
